@@ -1,0 +1,527 @@
+C:\Users\Администратор\Desktop\Testing\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Администратор\Desktop\Testing\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Администратор\Desktop\Testing\Temp\bin\Debug\Boo.Lang.dll
+C:\Users\Администратор\Desktop\Testing\Temp\bin\Debug\mscorlib.dll
+C:\Users\Администратор\Desktop\Testing\Temp\bin\Debug\nunit.framework.dll
+C:\Users\Администратор\Desktop\Testing\Temp\bin\Debug\System.Core.dll
+C:\Users\Администратор\Desktop\Testing\Temp\bin\Debug\System.dll
+C:\Users\Администратор\Desktop\Testing\Temp\bin\Debug\System.Runtime.Serialization.dll
+C:\Users\Администратор\Desktop\Testing\Temp\bin\Debug\System.Xml.dll
+C:\Users\Администратор\Desktop\Testing\Temp\bin\Debug\System.Xml.Linq.dll
+C:\Users\Администратор\Desktop\Testing\Temp\bin\Debug\Unity.Analytics.DataPrivacy.dll
+C:\Users\Администратор\Desktop\Testing\Temp\bin\Debug\Unity.Analytics.Editor.dll
+C:\Users\Администратор\Desktop\Testing\Temp\bin\Debug\Unity.Analytics.StandardEvents.dll
+C:\Users\Администратор\Desktop\Testing\Temp\bin\Debug\Unity.Analytics.Tracker.dll
+C:\Users\Администратор\Desktop\Testing\Temp\bin\Debug\Unity.CollabProxy.Editor.dll
+C:\Users\Администратор\Desktop\Testing\Temp\bin\Debug\Unity.Locator.dll
+C:\Users\Администратор\Desktop\Testing\Temp\bin\Debug\Unity.PackageManagerUI.Editor.dll
+C:\Users\Администратор\Desktop\Testing\Temp\bin\Debug\Unity.TextMeshPro.dll
+C:\Users\Администратор\Desktop\Testing\Temp\bin\Debug\Unity.TextMeshPro.Editor.dll
+C:\Users\Администратор\Desktop\Testing\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Администратор\Desktop\Testing\Temp\bin\Debug\UnityEngine.AccessibilityModule.dll
+C:\Users\Администратор\Desktop\Testing\Temp\bin\Debug\UnityEngine.AIModule.dll
+C:\Users\Администратор\Desktop\Testing\Temp\bin\Debug\UnityEngine.AnimationModule.dll
+C:\Users\Администратор\Desktop\Testing\Temp\bin\Debug\UnityEngine.ARModule.dll
+C:\Users\Администратор\Desktop\Testing\Temp\bin\Debug\UnityEngine.AssetBundleModule.dll
+C:\Users\Администратор\Desktop\Testing\Temp\bin\Debug\UnityEngine.AudioModule.dll
+C:\Users\Администратор\Desktop\Testing\Temp\bin\Debug\UnityEngine.BaselibModule.dll
+C:\Users\Администратор\Desktop\Testing\Temp\bin\Debug\UnityEngine.ClothModule.dll
+C:\Users\Администратор\Desktop\Testing\Temp\bin\Debug\UnityEngine.ClusterInputModule.dll
+C:\Users\Администратор\Desktop\Testing\Temp\bin\Debug\UnityEngine.ClusterRendererModule.dll
+C:\Users\Администратор\Desktop\Testing\Temp\bin\Debug\UnityEngine.CoreModule.dll
+C:\Users\Администратор\Desktop\Testing\Temp\bin\Debug\UnityEngine.CrashReportingModule.dll
+C:\Users\Администратор\Desktop\Testing\Temp\bin\Debug\UnityEngine.DirectorModule.dll
+C:\Users\Администратор\Desktop\Testing\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Администратор\Desktop\Testing\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.dll
+C:\Users\Администратор\Desktop\Testing\Temp\bin\Debug\UnityEngine.GameCenterModule.dll
+C:\Users\Администратор\Desktop\Testing\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.dll
+C:\Users\Администратор\Desktop\Testing\Temp\bin\Debug\UnityEngine.GridModule.dll
+C:\Users\Администратор\Desktop\Testing\Temp\bin\Debug\UnityEngine.HotReloadModule.dll
+C:\Users\Администратор\Desktop\Testing\Temp\bin\Debug\UnityEngine.ImageConversionModule.dll
+C:\Users\Администратор\Desktop\Testing\Temp\bin\Debug\UnityEngine.IMGUIModule.dll
+C:\Users\Администратор\Desktop\Testing\Temp\bin\Debug\UnityEngine.InputModule.dll
+C:\Users\Администратор\Desktop\Testing\Temp\bin\Debug\UnityEngine.JSONSerializeModule.dll
+C:\Users\Администратор\Desktop\Testing\Temp\bin\Debug\UnityEngine.LocalizationModule.dll
+C:\Users\Администратор\Desktop\Testing\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Администратор\Desktop\Testing\Temp\bin\Debug\UnityEngine.ParticleSystemModule.dll
+C:\Users\Администратор\Desktop\Testing\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+C:\Users\Администратор\Desktop\Testing\Temp\bin\Debug\UnityEngine.Physics2DModule.dll
+C:\Users\Администратор\Desktop\Testing\Temp\bin\Debug\UnityEngine.PhysicsModule.dll
+C:\Users\Администратор\Desktop\Testing\Temp\bin\Debug\UnityEngine.ProfilerModule.dll
+C:\Users\Администратор\Desktop\Testing\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+C:\Users\Администратор\Desktop\Testing\Temp\bin\Debug\UnityEngine.SharedInternalsModule.dll
+C:\Users\Администратор\Desktop\Testing\Temp\bin\Debug\UnityEngine.SpatialTracking.dll
+C:\Users\Администратор\Desktop\Testing\Temp\bin\Debug\UnityEngine.SpriteMaskModule.dll
+C:\Users\Администратор\Desktop\Testing\Temp\bin\Debug\UnityEngine.SpriteShapeModule.dll
+C:\Users\Администратор\Desktop\Testing\Temp\bin\Debug\UnityEngine.StreamingModule.dll
+C:\Users\Администратор\Desktop\Testing\Temp\bin\Debug\UnityEngine.StyleSheetsModule.dll
+C:\Users\Администратор\Desktop\Testing\Temp\bin\Debug\UnityEngine.SubstanceModule.dll
+C:\Users\Администратор\Desktop\Testing\Temp\bin\Debug\UnityEngine.TerrainModule.dll
+C:\Users\Администратор\Desktop\Testing\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+C:\Users\Администратор\Desktop\Testing\Temp\bin\Debug\UnityEngine.TestRunner.dll
+C:\Users\Администратор\Desktop\Testing\Temp\bin\Debug\UnityEngine.TextCoreModule.dll
+C:\Users\Администратор\Desktop\Testing\Temp\bin\Debug\UnityEngine.TextRenderingModule.dll
+C:\Users\Администратор\Desktop\Testing\Temp\bin\Debug\UnityEngine.TilemapModule.dll
+C:\Users\Администратор\Desktop\Testing\Temp\bin\Debug\UnityEngine.Timeline.dll
+C:\Users\Администратор\Desktop\Testing\Temp\bin\Debug\UnityEngine.TimelineModule.dll
+C:\Users\Администратор\Desktop\Testing\Temp\bin\Debug\UnityEngine.TLSModule.dll
+C:\Users\Администратор\Desktop\Testing\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Администратор\Desktop\Testing\Temp\bin\Debug\UnityEngine.UIElementsModule.dll
+C:\Users\Администратор\Desktop\Testing\Temp\bin\Debug\UnityEngine.UIModule.dll
+C:\Users\Администратор\Desktop\Testing\Temp\bin\Debug\UnityEngine.UmbraModule.dll
+C:\Users\Администратор\Desktop\Testing\Temp\bin\Debug\UnityEngine.UNETModule.dll
+C:\Users\Администратор\Desktop\Testing\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+C:\Users\Администратор\Desktop\Testing\Temp\bin\Debug\UnityEngine.UnityConnectModule.dll
+C:\Users\Администратор\Desktop\Testing\Temp\bin\Debug\UnityEngine.UnityTestProtocolModule.dll
+C:\Users\Администратор\Desktop\Testing\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+C:\Users\Администратор\Desktop\Testing\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+C:\Users\Администратор\Desktop\Testing\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+C:\Users\Администратор\Desktop\Testing\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+C:\Users\Администратор\Desktop\Testing\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+C:\Users\Администратор\Desktop\Testing\Temp\bin\Debug\UnityEngine.VehiclesModule.dll
+C:\Users\Администратор\Desktop\Testing\Temp\bin\Debug\UnityEngine.VFXModule.dll
+C:\Users\Администратор\Desktop\Testing\Temp\bin\Debug\UnityEngine.VideoModule.dll
+C:\Users\Администратор\Desktop\Testing\Temp\bin\Debug\UnityEngine.VRModule.dll
+C:\Users\Администратор\Desktop\Testing\Temp\bin\Debug\UnityEngine.WindModule.dll
+C:\Users\Администратор\Desktop\Testing\Temp\bin\Debug\UnityEngine.XRModule.dll
+C:\Users\Администратор\Desktop\Testing\Temp\bin\Debug\UnityScript.dll
+C:\Users\Администратор\Desktop\Testing\Temp\bin\Debug\UnityScript.Lang.dll
+C:\Users\Администратор\Desktop\Testing\Temp\bin\Debug\Unity.Cecil.dll
+C:\Users\Администратор\Desktop\Testing\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Администратор\Desktop\Testing\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Администратор\Desktop\Testing\Temp\bin\Debug\ExCSS.Unity.dll
+C:\Users\Администратор\Desktop\Testing\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+C:\Users\Администратор\Desktop\Testing\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\Администратор\Desktop\Testing\Temp\bin\Debug\Unity.IvyParser.dll
+C:\Users\Администратор\Desktop\Testing\Temp\bin\Debug\Boo.Lang.Compiler.dll
+C:\Users\Администратор\Desktop\Testing\Temp\bin\Debug\Boo.Lang.PatternMatching.dll
+C:\Users\Администратор\Desktop\Testing\Temp\bin\Debug\Boo.Lang.Parser.dll
+C:\Users\Администратор\Desktop\Testing\Temp\bin\Debug\Boo.Lang.Useful.dll
+C:\Users\Администратор\Desktop\Testing\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Администратор\Desktop\Testing\Temp\bin\Debug\Unity.Cecil.Pdb.dll
+C:\Users\Администратор\Desktop\Testing\Temp\bin\Debug\Unity.Cecil.Mdb.dll
+C:\Users\Администратор\Desktop\Testing\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Администратор\Desktop\Testing\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Администратор\Desktop\Testing\Temp\bin\Debug\UnityEngine.AIModule.xml
+C:\Users\Администратор\Desktop\Testing\Temp\bin\Debug\UnityEngine.ARModule.xml
+C:\Users\Администратор\Desktop\Testing\Temp\bin\Debug\UnityEngine.AccessibilityModule.xml
+C:\Users\Администратор\Desktop\Testing\Temp\bin\Debug\UnityEngine.AnimationModule.xml
+C:\Users\Администратор\Desktop\Testing\Temp\bin\Debug\UnityEngine.AssetBundleModule.xml
+C:\Users\Администратор\Desktop\Testing\Temp\bin\Debug\UnityEngine.AudioModule.xml
+C:\Users\Администратор\Desktop\Testing\Temp\bin\Debug\UnityEngine.BaselibModule.xml
+C:\Users\Администратор\Desktop\Testing\Temp\bin\Debug\UnityEngine.ClothModule.xml
+C:\Users\Администратор\Desktop\Testing\Temp\bin\Debug\UnityEngine.ClusterInputModule.xml
+C:\Users\Администратор\Desktop\Testing\Temp\bin\Debug\UnityEngine.ClusterRendererModule.xml
+C:\Users\Администратор\Desktop\Testing\Temp\bin\Debug\UnityEngine.CoreModule.xml
+C:\Users\Администратор\Desktop\Testing\Temp\bin\Debug\UnityEngine.CrashReportingModule.xml
+C:\Users\Администратор\Desktop\Testing\Temp\bin\Debug\UnityEngine.DirectorModule.xml
+C:\Users\Администратор\Desktop\Testing\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.xml
+C:\Users\Администратор\Desktop\Testing\Temp\bin\Debug\UnityEngine.GameCenterModule.xml
+C:\Users\Администратор\Desktop\Testing\Temp\bin\Debug\UnityEngine.GridModule.xml
+C:\Users\Администратор\Desktop\Testing\Temp\bin\Debug\UnityEngine.HotReloadModule.xml
+C:\Users\Администратор\Desktop\Testing\Temp\bin\Debug\UnityEngine.IMGUIModule.xml
+C:\Users\Администратор\Desktop\Testing\Temp\bin\Debug\UnityEngine.ImageConversionModule.xml
+C:\Users\Администратор\Desktop\Testing\Temp\bin\Debug\UnityEngine.InputModule.xml
+C:\Users\Администратор\Desktop\Testing\Temp\bin\Debug\UnityEngine.JSONSerializeModule.xml
+C:\Users\Администратор\Desktop\Testing\Temp\bin\Debug\UnityEngine.LocalizationModule.xml
+C:\Users\Администратор\Desktop\Testing\Temp\bin\Debug\UnityEngine.ParticleSystemModule.xml
+C:\Users\Администратор\Desktop\Testing\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.xml
+C:\Users\Администратор\Desktop\Testing\Temp\bin\Debug\UnityEngine.PhysicsModule.xml
+C:\Users\Администратор\Desktop\Testing\Temp\bin\Debug\UnityEngine.Physics2DModule.xml
+C:\Users\Администратор\Desktop\Testing\Temp\bin\Debug\UnityEngine.ProfilerModule.xml
+C:\Users\Администратор\Desktop\Testing\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.xml
+C:\Users\Администратор\Desktop\Testing\Temp\bin\Debug\UnityEngine.SharedInternalsModule.xml
+C:\Users\Администратор\Desktop\Testing\Temp\bin\Debug\UnityEngine.SpriteMaskModule.xml
+C:\Users\Администратор\Desktop\Testing\Temp\bin\Debug\UnityEngine.SpriteShapeModule.xml
+C:\Users\Администратор\Desktop\Testing\Temp\bin\Debug\UnityEngine.StreamingModule.xml
+C:\Users\Администратор\Desktop\Testing\Temp\bin\Debug\UnityEngine.StyleSheetsModule.xml
+C:\Users\Администратор\Desktop\Testing\Temp\bin\Debug\UnityEngine.SubstanceModule.xml
+C:\Users\Администратор\Desktop\Testing\Temp\bin\Debug\UnityEngine.TLSModule.xml
+C:\Users\Администратор\Desktop\Testing\Temp\bin\Debug\UnityEngine.TerrainModule.xml
+C:\Users\Администратор\Desktop\Testing\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.xml
+C:\Users\Администратор\Desktop\Testing\Temp\bin\Debug\UnityEngine.TextCoreModule.xml
+C:\Users\Администратор\Desktop\Testing\Temp\bin\Debug\UnityEngine.TextRenderingModule.xml
+C:\Users\Администратор\Desktop\Testing\Temp\bin\Debug\UnityEngine.TilemapModule.xml
+C:\Users\Администратор\Desktop\Testing\Temp\bin\Debug\UnityEngine.TimelineModule.xml
+C:\Users\Администратор\Desktop\Testing\Temp\bin\Debug\UnityEngine.UIModule.xml
+C:\Users\Администратор\Desktop\Testing\Temp\bin\Debug\UnityEngine.UIElementsModule.xml
+C:\Users\Администратор\Desktop\Testing\Temp\bin\Debug\UnityEngine.UNETModule.xml
+C:\Users\Администратор\Desktop\Testing\Temp\bin\Debug\UnityEngine.UmbraModule.xml
+C:\Users\Администратор\Desktop\Testing\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.xml
+C:\Users\Администратор\Desktop\Testing\Temp\bin\Debug\UnityEngine.UnityConnectModule.xml
+C:\Users\Администратор\Desktop\Testing\Temp\bin\Debug\UnityEngine.UnityTestProtocolModule.xml
+C:\Users\Администратор\Desktop\Testing\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.xml
+C:\Users\Администратор\Desktop\Testing\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.xml
+C:\Users\Администратор\Desktop\Testing\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.xml
+C:\Users\Администратор\Desktop\Testing\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.xml
+C:\Users\Администратор\Desktop\Testing\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.xml
+C:\Users\Администратор\Desktop\Testing\Temp\bin\Debug\UnityEngine.VFXModule.xml
+C:\Users\Администратор\Desktop\Testing\Temp\bin\Debug\UnityEngine.VRModule.xml
+C:\Users\Администратор\Desktop\Testing\Temp\bin\Debug\UnityEngine.VehiclesModule.xml
+C:\Users\Администратор\Desktop\Testing\Temp\bin\Debug\UnityEngine.VideoModule.xml
+C:\Users\Администратор\Desktop\Testing\Temp\bin\Debug\UnityEngine.WindModule.xml
+C:\Users\Администратор\Desktop\Testing\Temp\bin\Debug\UnityEngine.XRModule.xml
+C:\Users\Администратор\Desktop\Testing\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Администратор\Desktop\Testing\Temp\bin\Debug\UnityEngine.TestRunner.xml
+C:\Users\Администратор\Desktop\Testing\Temp\bin\Debug\nunit.framework.xml
+C:\Users\Администратор\Desktop\Testing\Temp\bin\Debug\UnityEngine.Timeline.xml
+C:\Users\Администратор\Desktop\Testing\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Администратор\Desktop\Testing\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.xml
+C:\Users\Администратор\Desktop\Testing\Temp\bin\Debug\UnityEngine.SpatialTracking.xml
+C:\Users\Администратор\Desktop\Testing\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+C:\Users\Администратор\Desktop\Testing\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\Desktop\Testing\obj\Debug\Assembly-CSharp.csproj.CopyComplete
+C:\Users\Администратор\Desktop\Testing\obj\Debug\Assembly-CSharp.dll
+C:\Users\Администратор\Desktop\Testing\obj\Debug\Assembly-CSharp.pdb
+D:\STUDY\Unity практика\Testing 0.5\Temp\bin\Debug\Assembly-CSharp.dll
+D:\STUDY\Unity практика\Testing 0.5\Temp\bin\Debug\Assembly-CSharp.pdb
+D:\STUDY\Unity практика\Testing 0.5\Temp\bin\Debug\Boo.Lang.dll
+D:\STUDY\Unity практика\Testing 0.5\Temp\bin\Debug\mscorlib.dll
+D:\STUDY\Unity практика\Testing 0.5\Temp\bin\Debug\nunit.framework.dll
+D:\STUDY\Unity практика\Testing 0.5\Temp\bin\Debug\System.Core.dll
+D:\STUDY\Unity практика\Testing 0.5\Temp\bin\Debug\System.dll
+D:\STUDY\Unity практика\Testing 0.5\Temp\bin\Debug\System.Runtime.Serialization.dll
+D:\STUDY\Unity практика\Testing 0.5\Temp\bin\Debug\System.Xml.dll
+D:\STUDY\Unity практика\Testing 0.5\Temp\bin\Debug\System.Xml.Linq.dll
+D:\STUDY\Unity практика\Testing 0.5\Temp\bin\Debug\Unity.Analytics.DataPrivacy.dll
+D:\STUDY\Unity практика\Testing 0.5\Temp\bin\Debug\Unity.Analytics.Editor.dll
+D:\STUDY\Unity практика\Testing 0.5\Temp\bin\Debug\Unity.Analytics.StandardEvents.dll
+D:\STUDY\Unity практика\Testing 0.5\Temp\bin\Debug\Unity.Analytics.Tracker.dll
+D:\STUDY\Unity практика\Testing 0.5\Temp\bin\Debug\Unity.CollabProxy.Editor.dll
+D:\STUDY\Unity практика\Testing 0.5\Temp\bin\Debug\Unity.Locator.dll
+D:\STUDY\Unity практика\Testing 0.5\Temp\bin\Debug\Unity.PackageManagerUI.Editor.dll
+D:\STUDY\Unity практика\Testing 0.5\Temp\bin\Debug\Unity.TextMeshPro.dll
+D:\STUDY\Unity практика\Testing 0.5\Temp\bin\Debug\Unity.TextMeshPro.Editor.dll
+D:\STUDY\Unity практика\Testing 0.5\Temp\bin\Debug\UnityEditor.dll
+D:\STUDY\Unity практика\Testing 0.5\Temp\bin\Debug\UnityEngine.AccessibilityModule.dll
+D:\STUDY\Unity практика\Testing 0.5\Temp\bin\Debug\UnityEngine.AIModule.dll
+D:\STUDY\Unity практика\Testing 0.5\Temp\bin\Debug\UnityEngine.AnimationModule.dll
+D:\STUDY\Unity практика\Testing 0.5\Temp\bin\Debug\UnityEngine.ARModule.dll
+D:\STUDY\Unity практика\Testing 0.5\Temp\bin\Debug\UnityEngine.AssetBundleModule.dll
+D:\STUDY\Unity практика\Testing 0.5\Temp\bin\Debug\UnityEngine.AudioModule.dll
+D:\STUDY\Unity практика\Testing 0.5\Temp\bin\Debug\UnityEngine.BaselibModule.dll
+D:\STUDY\Unity практика\Testing 0.5\Temp\bin\Debug\UnityEngine.ClothModule.dll
+D:\STUDY\Unity практика\Testing 0.5\Temp\bin\Debug\UnityEngine.ClusterInputModule.dll
+D:\STUDY\Unity практика\Testing 0.5\Temp\bin\Debug\UnityEngine.ClusterRendererModule.dll
+D:\STUDY\Unity практика\Testing 0.5\Temp\bin\Debug\UnityEngine.CoreModule.dll
+D:\STUDY\Unity практика\Testing 0.5\Temp\bin\Debug\UnityEngine.CrashReportingModule.dll
+D:\STUDY\Unity практика\Testing 0.5\Temp\bin\Debug\UnityEngine.DirectorModule.dll
+D:\STUDY\Unity практика\Testing 0.5\Temp\bin\Debug\UnityEngine.dll
+D:\STUDY\Unity практика\Testing 0.5\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.dll
+D:\STUDY\Unity практика\Testing 0.5\Temp\bin\Debug\UnityEngine.GameCenterModule.dll
+D:\STUDY\Unity практика\Testing 0.5\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.dll
+D:\STUDY\Unity практика\Testing 0.5\Temp\bin\Debug\UnityEngine.GridModule.dll
+D:\STUDY\Unity практика\Testing 0.5\Temp\bin\Debug\UnityEngine.HotReloadModule.dll
+D:\STUDY\Unity практика\Testing 0.5\Temp\bin\Debug\UnityEngine.ImageConversionModule.dll
+D:\STUDY\Unity практика\Testing 0.5\Temp\bin\Debug\UnityEngine.IMGUIModule.dll
+D:\STUDY\Unity практика\Testing 0.5\Temp\bin\Debug\UnityEngine.InputModule.dll
+D:\STUDY\Unity практика\Testing 0.5\Temp\bin\Debug\UnityEngine.JSONSerializeModule.dll
+D:\STUDY\Unity практика\Testing 0.5\Temp\bin\Debug\UnityEngine.LocalizationModule.dll
+D:\STUDY\Unity практика\Testing 0.5\Temp\bin\Debug\UnityEngine.Networking.dll
+D:\STUDY\Unity практика\Testing 0.5\Temp\bin\Debug\UnityEngine.ParticleSystemModule.dll
+D:\STUDY\Unity практика\Testing 0.5\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+D:\STUDY\Unity практика\Testing 0.5\Temp\bin\Debug\UnityEngine.Physics2DModule.dll
+D:\STUDY\Unity практика\Testing 0.5\Temp\bin\Debug\UnityEngine.PhysicsModule.dll
+D:\STUDY\Unity практика\Testing 0.5\Temp\bin\Debug\UnityEngine.ProfilerModule.dll
+D:\STUDY\Unity практика\Testing 0.5\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+D:\STUDY\Unity практика\Testing 0.5\Temp\bin\Debug\UnityEngine.SharedInternalsModule.dll
+D:\STUDY\Unity практика\Testing 0.5\Temp\bin\Debug\UnityEngine.SpatialTracking.dll
+D:\STUDY\Unity практика\Testing 0.5\Temp\bin\Debug\UnityEngine.SpriteMaskModule.dll
+D:\STUDY\Unity практика\Testing 0.5\Temp\bin\Debug\UnityEngine.SpriteShapeModule.dll
+D:\STUDY\Unity практика\Testing 0.5\Temp\bin\Debug\UnityEngine.StreamingModule.dll
+D:\STUDY\Unity практика\Testing 0.5\Temp\bin\Debug\UnityEngine.StyleSheetsModule.dll
+D:\STUDY\Unity практика\Testing 0.5\Temp\bin\Debug\UnityEngine.SubstanceModule.dll
+D:\STUDY\Unity практика\Testing 0.5\Temp\bin\Debug\UnityEngine.TerrainModule.dll
+D:\STUDY\Unity практика\Testing 0.5\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+D:\STUDY\Unity практика\Testing 0.5\Temp\bin\Debug\UnityEngine.TestRunner.dll
+D:\STUDY\Unity практика\Testing 0.5\Temp\bin\Debug\UnityEngine.TextCoreModule.dll
+D:\STUDY\Unity практика\Testing 0.5\Temp\bin\Debug\UnityEngine.TextRenderingModule.dll
+D:\STUDY\Unity практика\Testing 0.5\Temp\bin\Debug\UnityEngine.TilemapModule.dll
+D:\STUDY\Unity практика\Testing 0.5\Temp\bin\Debug\UnityEngine.Timeline.dll
+D:\STUDY\Unity практика\Testing 0.5\Temp\bin\Debug\UnityEngine.TimelineModule.dll
+D:\STUDY\Unity практика\Testing 0.5\Temp\bin\Debug\UnityEngine.TLSModule.dll
+D:\STUDY\Unity практика\Testing 0.5\Temp\bin\Debug\UnityEngine.UI.dll
+D:\STUDY\Unity практика\Testing 0.5\Temp\bin\Debug\UnityEngine.UIElementsModule.dll
+D:\STUDY\Unity практика\Testing 0.5\Temp\bin\Debug\UnityEngine.UIModule.dll
+D:\STUDY\Unity практика\Testing 0.5\Temp\bin\Debug\UnityEngine.UmbraModule.dll
+D:\STUDY\Unity практика\Testing 0.5\Temp\bin\Debug\UnityEngine.UNETModule.dll
+D:\STUDY\Unity практика\Testing 0.5\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+D:\STUDY\Unity практика\Testing 0.5\Temp\bin\Debug\UnityEngine.UnityConnectModule.dll
+D:\STUDY\Unity практика\Testing 0.5\Temp\bin\Debug\UnityEngine.UnityTestProtocolModule.dll
+D:\STUDY\Unity практика\Testing 0.5\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+D:\STUDY\Unity практика\Testing 0.5\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+D:\STUDY\Unity практика\Testing 0.5\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+D:\STUDY\Unity практика\Testing 0.5\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+D:\STUDY\Unity практика\Testing 0.5\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+D:\STUDY\Unity практика\Testing 0.5\Temp\bin\Debug\UnityEngine.VehiclesModule.dll
+D:\STUDY\Unity практика\Testing 0.5\Temp\bin\Debug\UnityEngine.VFXModule.dll
+D:\STUDY\Unity практика\Testing 0.5\Temp\bin\Debug\UnityEngine.VideoModule.dll
+D:\STUDY\Unity практика\Testing 0.5\Temp\bin\Debug\UnityEngine.VRModule.dll
+D:\STUDY\Unity практика\Testing 0.5\Temp\bin\Debug\UnityEngine.WindModule.dll
+D:\STUDY\Unity практика\Testing 0.5\Temp\bin\Debug\UnityEngine.XRModule.dll
+D:\STUDY\Unity практика\Testing 0.5\Temp\bin\Debug\UnityScript.dll
+D:\STUDY\Unity практика\Testing 0.5\Temp\bin\Debug\UnityScript.Lang.dll
+D:\STUDY\Unity практика\Testing 0.5\Temp\bin\Debug\Unity.Cecil.dll
+D:\STUDY\Unity практика\Testing 0.5\Temp\bin\Debug\Unity.SerializationLogic.dll
+D:\STUDY\Unity практика\Testing 0.5\Temp\bin\Debug\Unity.DataContract.dll
+D:\STUDY\Unity практика\Testing 0.5\Temp\bin\Debug\ExCSS.Unity.dll
+D:\STUDY\Unity практика\Testing 0.5\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+D:\STUDY\Unity практика\Testing 0.5\Temp\bin\Debug\Unity.UNetWeaver.dll
+D:\STUDY\Unity практика\Testing 0.5\Temp\bin\Debug\Unity.IvyParser.dll
+D:\STUDY\Unity практика\Testing 0.5\Temp\bin\Debug\Boo.Lang.Compiler.dll
+D:\STUDY\Unity практика\Testing 0.5\Temp\bin\Debug\Boo.Lang.PatternMatching.dll
+D:\STUDY\Unity практика\Testing 0.5\Temp\bin\Debug\Boo.Lang.Parser.dll
+D:\STUDY\Unity практика\Testing 0.5\Temp\bin\Debug\Boo.Lang.Useful.dll
+D:\STUDY\Unity практика\Testing 0.5\Temp\bin\Debug\Unity.CecilTools.dll
+D:\STUDY\Unity практика\Testing 0.5\Temp\bin\Debug\Unity.Cecil.Pdb.dll
+D:\STUDY\Unity практика\Testing 0.5\Temp\bin\Debug\Unity.Cecil.Mdb.dll
+D:\STUDY\Unity практика\Testing 0.5\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+D:\STUDY\Unity практика\Testing 0.5\Temp\bin\Debug\UnityEngine.xml
+D:\STUDY\Unity практика\Testing 0.5\Temp\bin\Debug\UnityEditor.xml
+D:\STUDY\Unity практика\Testing 0.5\Temp\bin\Debug\UnityEngine.AIModule.xml
+D:\STUDY\Unity практика\Testing 0.5\Temp\bin\Debug\UnityEngine.ARModule.xml
+D:\STUDY\Unity практика\Testing 0.5\Temp\bin\Debug\UnityEngine.AccessibilityModule.xml
+D:\STUDY\Unity практика\Testing 0.5\Temp\bin\Debug\UnityEngine.AnimationModule.xml
+D:\STUDY\Unity практика\Testing 0.5\Temp\bin\Debug\UnityEngine.AssetBundleModule.xml
+D:\STUDY\Unity практика\Testing 0.5\Temp\bin\Debug\UnityEngine.AudioModule.xml
+D:\STUDY\Unity практика\Testing 0.5\Temp\bin\Debug\UnityEngine.BaselibModule.xml
+D:\STUDY\Unity практика\Testing 0.5\Temp\bin\Debug\UnityEngine.ClothModule.xml
+D:\STUDY\Unity практика\Testing 0.5\Temp\bin\Debug\UnityEngine.ClusterInputModule.xml
+D:\STUDY\Unity практика\Testing 0.5\Temp\bin\Debug\UnityEngine.ClusterRendererModule.xml
+D:\STUDY\Unity практика\Testing 0.5\Temp\bin\Debug\UnityEngine.CoreModule.xml
+D:\STUDY\Unity практика\Testing 0.5\Temp\bin\Debug\UnityEngine.CrashReportingModule.xml
+D:\STUDY\Unity практика\Testing 0.5\Temp\bin\Debug\UnityEngine.DirectorModule.xml
+D:\STUDY\Unity практика\Testing 0.5\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.xml
+D:\STUDY\Unity практика\Testing 0.5\Temp\bin\Debug\UnityEngine.GameCenterModule.xml
+D:\STUDY\Unity практика\Testing 0.5\Temp\bin\Debug\UnityEngine.GridModule.xml
+D:\STUDY\Unity практика\Testing 0.5\Temp\bin\Debug\UnityEngine.HotReloadModule.xml
+D:\STUDY\Unity практика\Testing 0.5\Temp\bin\Debug\UnityEngine.IMGUIModule.xml
+D:\STUDY\Unity практика\Testing 0.5\Temp\bin\Debug\UnityEngine.ImageConversionModule.xml
+D:\STUDY\Unity практика\Testing 0.5\Temp\bin\Debug\UnityEngine.InputModule.xml
+D:\STUDY\Unity практика\Testing 0.5\Temp\bin\Debug\UnityEngine.JSONSerializeModule.xml
+D:\STUDY\Unity практика\Testing 0.5\Temp\bin\Debug\UnityEngine.LocalizationModule.xml
+D:\STUDY\Unity практика\Testing 0.5\Temp\bin\Debug\UnityEngine.ParticleSystemModule.xml
+D:\STUDY\Unity практика\Testing 0.5\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.xml
+D:\STUDY\Unity практика\Testing 0.5\Temp\bin\Debug\UnityEngine.PhysicsModule.xml
+D:\STUDY\Unity практика\Testing 0.5\Temp\bin\Debug\UnityEngine.Physics2DModule.xml
+D:\STUDY\Unity практика\Testing 0.5\Temp\bin\Debug\UnityEngine.ProfilerModule.xml
+D:\STUDY\Unity практика\Testing 0.5\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.xml
+D:\STUDY\Unity практика\Testing 0.5\Temp\bin\Debug\UnityEngine.SharedInternalsModule.xml
+D:\STUDY\Unity практика\Testing 0.5\Temp\bin\Debug\UnityEngine.SpriteMaskModule.xml
+D:\STUDY\Unity практика\Testing 0.5\Temp\bin\Debug\UnityEngine.SpriteShapeModule.xml
+D:\STUDY\Unity практика\Testing 0.5\Temp\bin\Debug\UnityEngine.StreamingModule.xml
+D:\STUDY\Unity практика\Testing 0.5\Temp\bin\Debug\UnityEngine.StyleSheetsModule.xml
+D:\STUDY\Unity практика\Testing 0.5\Temp\bin\Debug\UnityEngine.SubstanceModule.xml
+D:\STUDY\Unity практика\Testing 0.5\Temp\bin\Debug\UnityEngine.TLSModule.xml
+D:\STUDY\Unity практика\Testing 0.5\Temp\bin\Debug\UnityEngine.TerrainModule.xml
+D:\STUDY\Unity практика\Testing 0.5\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.xml
+D:\STUDY\Unity практика\Testing 0.5\Temp\bin\Debug\UnityEngine.TextCoreModule.xml
+D:\STUDY\Unity практика\Testing 0.5\Temp\bin\Debug\UnityEngine.TextRenderingModule.xml
+D:\STUDY\Unity практика\Testing 0.5\Temp\bin\Debug\UnityEngine.TilemapModule.xml
+D:\STUDY\Unity практика\Testing 0.5\Temp\bin\Debug\UnityEngine.TimelineModule.xml
+D:\STUDY\Unity практика\Testing 0.5\Temp\bin\Debug\UnityEngine.UIModule.xml
+D:\STUDY\Unity практика\Testing 0.5\Temp\bin\Debug\UnityEngine.UIElementsModule.xml
+D:\STUDY\Unity практика\Testing 0.5\Temp\bin\Debug\UnityEngine.UNETModule.xml
+D:\STUDY\Unity практика\Testing 0.5\Temp\bin\Debug\UnityEngine.UmbraModule.xml
+D:\STUDY\Unity практика\Testing 0.5\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.xml
+D:\STUDY\Unity практика\Testing 0.5\Temp\bin\Debug\UnityEngine.UnityConnectModule.xml
+D:\STUDY\Unity практика\Testing 0.5\Temp\bin\Debug\UnityEngine.UnityTestProtocolModule.xml
+D:\STUDY\Unity практика\Testing 0.5\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.xml
+D:\STUDY\Unity практика\Testing 0.5\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.xml
+D:\STUDY\Unity практика\Testing 0.5\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.xml
+D:\STUDY\Unity практика\Testing 0.5\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.xml
+D:\STUDY\Unity практика\Testing 0.5\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.xml
+D:\STUDY\Unity практика\Testing 0.5\Temp\bin\Debug\UnityEngine.VFXModule.xml
+D:\STUDY\Unity практика\Testing 0.5\Temp\bin\Debug\UnityEngine.VRModule.xml
+D:\STUDY\Unity практика\Testing 0.5\Temp\bin\Debug\UnityEngine.VehiclesModule.xml
+D:\STUDY\Unity практика\Testing 0.5\Temp\bin\Debug\UnityEngine.VideoModule.xml
+D:\STUDY\Unity практика\Testing 0.5\Temp\bin\Debug\UnityEngine.WindModule.xml
+D:\STUDY\Unity практика\Testing 0.5\Temp\bin\Debug\UnityEngine.XRModule.xml
+D:\STUDY\Unity практика\Testing 0.5\Temp\bin\Debug\UnityEngine.UI.xml
+D:\STUDY\Unity практика\Testing 0.5\Temp\bin\Debug\UnityEngine.TestRunner.xml
+D:\STUDY\Unity практика\Testing 0.5\Temp\bin\Debug\nunit.framework.xml
+D:\STUDY\Unity практика\Testing 0.5\Temp\bin\Debug\UnityEngine.Timeline.xml
+D:\STUDY\Unity практика\Testing 0.5\Temp\bin\Debug\UnityEngine.Networking.xml
+D:\STUDY\Unity практика\Testing 0.5\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.xml
+D:\STUDY\Unity практика\Testing 0.5\Temp\bin\Debug\UnityEngine.SpatialTracking.xml
+D:\STUDY\Unity практика\Testing 0.5\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+D:\STUDY\Unity практика\Testing 0.5\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+D:\STUDY\Unity практика\Testing 0.5\obj\Debug\Assembly-CSharp.csproj.CopyComplete
+D:\STUDY\Unity практика\Testing 0.5\obj\Debug\Assembly-CSharp.dll
+D:\STUDY\Unity практика\Testing 0.5\obj\Debug\Assembly-CSharp.pdb
+D:\STUDY\Unity практика\Testing 0.5.1normalUI\Temp\bin\Debug\Assembly-CSharp.dll
+D:\STUDY\Unity практика\Testing 0.5.1normalUI\Temp\bin\Debug\Assembly-CSharp.pdb
+D:\STUDY\Unity практика\Testing 0.5.1normalUI\Temp\bin\Debug\Boo.Lang.dll
+D:\STUDY\Unity практика\Testing 0.5.1normalUI\Temp\bin\Debug\mscorlib.dll
+D:\STUDY\Unity практика\Testing 0.5.1normalUI\Temp\bin\Debug\nunit.framework.dll
+D:\STUDY\Unity практика\Testing 0.5.1normalUI\Temp\bin\Debug\System.Core.dll
+D:\STUDY\Unity практика\Testing 0.5.1normalUI\Temp\bin\Debug\System.dll
+D:\STUDY\Unity практика\Testing 0.5.1normalUI\Temp\bin\Debug\System.Runtime.Serialization.dll
+D:\STUDY\Unity практика\Testing 0.5.1normalUI\Temp\bin\Debug\System.Xml.dll
+D:\STUDY\Unity практика\Testing 0.5.1normalUI\Temp\bin\Debug\System.Xml.Linq.dll
+D:\STUDY\Unity практика\Testing 0.5.1normalUI\Temp\bin\Debug\Unity.Analytics.DataPrivacy.dll
+D:\STUDY\Unity практика\Testing 0.5.1normalUI\Temp\bin\Debug\Unity.Analytics.Editor.dll
+D:\STUDY\Unity практика\Testing 0.5.1normalUI\Temp\bin\Debug\Unity.Analytics.StandardEvents.dll
+D:\STUDY\Unity практика\Testing 0.5.1normalUI\Temp\bin\Debug\Unity.Analytics.Tracker.dll
+D:\STUDY\Unity практика\Testing 0.5.1normalUI\Temp\bin\Debug\Unity.CollabProxy.Editor.dll
+D:\STUDY\Unity практика\Testing 0.5.1normalUI\Temp\bin\Debug\Unity.Locator.dll
+D:\STUDY\Unity практика\Testing 0.5.1normalUI\Temp\bin\Debug\Unity.PackageManagerUI.Editor.dll
+D:\STUDY\Unity практика\Testing 0.5.1normalUI\Temp\bin\Debug\Unity.TextMeshPro.dll
+D:\STUDY\Unity практика\Testing 0.5.1normalUI\Temp\bin\Debug\Unity.TextMeshPro.Editor.dll
+D:\STUDY\Unity практика\Testing 0.5.1normalUI\Temp\bin\Debug\UnityEditor.dll
+D:\STUDY\Unity практика\Testing 0.5.1normalUI\Temp\bin\Debug\UnityEngine.AccessibilityModule.dll
+D:\STUDY\Unity практика\Testing 0.5.1normalUI\Temp\bin\Debug\UnityEngine.AIModule.dll
+D:\STUDY\Unity практика\Testing 0.5.1normalUI\Temp\bin\Debug\UnityEngine.AnimationModule.dll
+D:\STUDY\Unity практика\Testing 0.5.1normalUI\Temp\bin\Debug\UnityEngine.ARModule.dll
+D:\STUDY\Unity практика\Testing 0.5.1normalUI\Temp\bin\Debug\UnityEngine.AssetBundleModule.dll
+D:\STUDY\Unity практика\Testing 0.5.1normalUI\Temp\bin\Debug\UnityEngine.AudioModule.dll
+D:\STUDY\Unity практика\Testing 0.5.1normalUI\Temp\bin\Debug\UnityEngine.BaselibModule.dll
+D:\STUDY\Unity практика\Testing 0.5.1normalUI\Temp\bin\Debug\UnityEngine.ClothModule.dll
+D:\STUDY\Unity практика\Testing 0.5.1normalUI\Temp\bin\Debug\UnityEngine.ClusterInputModule.dll
+D:\STUDY\Unity практика\Testing 0.5.1normalUI\Temp\bin\Debug\UnityEngine.ClusterRendererModule.dll
+D:\STUDY\Unity практика\Testing 0.5.1normalUI\Temp\bin\Debug\UnityEngine.CoreModule.dll
+D:\STUDY\Unity практика\Testing 0.5.1normalUI\Temp\bin\Debug\UnityEngine.CrashReportingModule.dll
+D:\STUDY\Unity практика\Testing 0.5.1normalUI\Temp\bin\Debug\UnityEngine.DirectorModule.dll
+D:\STUDY\Unity практика\Testing 0.5.1normalUI\Temp\bin\Debug\UnityEngine.dll
+D:\STUDY\Unity практика\Testing 0.5.1normalUI\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.dll
+D:\STUDY\Unity практика\Testing 0.5.1normalUI\Temp\bin\Debug\UnityEngine.GameCenterModule.dll
+D:\STUDY\Unity практика\Testing 0.5.1normalUI\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.dll
+D:\STUDY\Unity практика\Testing 0.5.1normalUI\Temp\bin\Debug\UnityEngine.GridModule.dll
+D:\STUDY\Unity практика\Testing 0.5.1normalUI\Temp\bin\Debug\UnityEngine.HotReloadModule.dll
+D:\STUDY\Unity практика\Testing 0.5.1normalUI\Temp\bin\Debug\UnityEngine.ImageConversionModule.dll
+D:\STUDY\Unity практика\Testing 0.5.1normalUI\Temp\bin\Debug\UnityEngine.IMGUIModule.dll
+D:\STUDY\Unity практика\Testing 0.5.1normalUI\Temp\bin\Debug\UnityEngine.InputModule.dll
+D:\STUDY\Unity практика\Testing 0.5.1normalUI\Temp\bin\Debug\UnityEngine.JSONSerializeModule.dll
+D:\STUDY\Unity практика\Testing 0.5.1normalUI\Temp\bin\Debug\UnityEngine.LocalizationModule.dll
+D:\STUDY\Unity практика\Testing 0.5.1normalUI\Temp\bin\Debug\UnityEngine.Networking.dll
+D:\STUDY\Unity практика\Testing 0.5.1normalUI\Temp\bin\Debug\UnityEngine.ParticleSystemModule.dll
+D:\STUDY\Unity практика\Testing 0.5.1normalUI\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+D:\STUDY\Unity практика\Testing 0.5.1normalUI\Temp\bin\Debug\UnityEngine.Physics2DModule.dll
+D:\STUDY\Unity практика\Testing 0.5.1normalUI\Temp\bin\Debug\UnityEngine.PhysicsModule.dll
+D:\STUDY\Unity практика\Testing 0.5.1normalUI\Temp\bin\Debug\UnityEngine.ProfilerModule.dll
+D:\STUDY\Unity практика\Testing 0.5.1normalUI\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+D:\STUDY\Unity практика\Testing 0.5.1normalUI\Temp\bin\Debug\UnityEngine.SharedInternalsModule.dll
+D:\STUDY\Unity практика\Testing 0.5.1normalUI\Temp\bin\Debug\UnityEngine.SpatialTracking.dll
+D:\STUDY\Unity практика\Testing 0.5.1normalUI\Temp\bin\Debug\UnityEngine.SpriteMaskModule.dll
+D:\STUDY\Unity практика\Testing 0.5.1normalUI\Temp\bin\Debug\UnityEngine.SpriteShapeModule.dll
+D:\STUDY\Unity практика\Testing 0.5.1normalUI\Temp\bin\Debug\UnityEngine.StreamingModule.dll
+D:\STUDY\Unity практика\Testing 0.5.1normalUI\Temp\bin\Debug\UnityEngine.StyleSheetsModule.dll
+D:\STUDY\Unity практика\Testing 0.5.1normalUI\Temp\bin\Debug\UnityEngine.SubstanceModule.dll
+D:\STUDY\Unity практика\Testing 0.5.1normalUI\Temp\bin\Debug\UnityEngine.TerrainModule.dll
+D:\STUDY\Unity практика\Testing 0.5.1normalUI\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+D:\STUDY\Unity практика\Testing 0.5.1normalUI\Temp\bin\Debug\UnityEngine.TestRunner.dll
+D:\STUDY\Unity практика\Testing 0.5.1normalUI\Temp\bin\Debug\UnityEngine.TextCoreModule.dll
+D:\STUDY\Unity практика\Testing 0.5.1normalUI\Temp\bin\Debug\UnityEngine.TextRenderingModule.dll
+D:\STUDY\Unity практика\Testing 0.5.1normalUI\Temp\bin\Debug\UnityEngine.TilemapModule.dll
+D:\STUDY\Unity практика\Testing 0.5.1normalUI\Temp\bin\Debug\UnityEngine.Timeline.dll
+D:\STUDY\Unity практика\Testing 0.5.1normalUI\Temp\bin\Debug\UnityEngine.TimelineModule.dll
+D:\STUDY\Unity практика\Testing 0.5.1normalUI\Temp\bin\Debug\UnityEngine.TLSModule.dll
+D:\STUDY\Unity практика\Testing 0.5.1normalUI\Temp\bin\Debug\UnityEngine.UI.dll
+D:\STUDY\Unity практика\Testing 0.5.1normalUI\Temp\bin\Debug\UnityEngine.UIElementsModule.dll
+D:\STUDY\Unity практика\Testing 0.5.1normalUI\Temp\bin\Debug\UnityEngine.UIModule.dll
+D:\STUDY\Unity практика\Testing 0.5.1normalUI\Temp\bin\Debug\UnityEngine.UmbraModule.dll
+D:\STUDY\Unity практика\Testing 0.5.1normalUI\Temp\bin\Debug\UnityEngine.UNETModule.dll
+D:\STUDY\Unity практика\Testing 0.5.1normalUI\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+D:\STUDY\Unity практика\Testing 0.5.1normalUI\Temp\bin\Debug\UnityEngine.UnityConnectModule.dll
+D:\STUDY\Unity практика\Testing 0.5.1normalUI\Temp\bin\Debug\UnityEngine.UnityTestProtocolModule.dll
+D:\STUDY\Unity практика\Testing 0.5.1normalUI\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+D:\STUDY\Unity практика\Testing 0.5.1normalUI\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+D:\STUDY\Unity практика\Testing 0.5.1normalUI\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+D:\STUDY\Unity практика\Testing 0.5.1normalUI\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+D:\STUDY\Unity практика\Testing 0.5.1normalUI\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+D:\STUDY\Unity практика\Testing 0.5.1normalUI\Temp\bin\Debug\UnityEngine.VehiclesModule.dll
+D:\STUDY\Unity практика\Testing 0.5.1normalUI\Temp\bin\Debug\UnityEngine.VFXModule.dll
+D:\STUDY\Unity практика\Testing 0.5.1normalUI\Temp\bin\Debug\UnityEngine.VideoModule.dll
+D:\STUDY\Unity практика\Testing 0.5.1normalUI\Temp\bin\Debug\UnityEngine.VRModule.dll
+D:\STUDY\Unity практика\Testing 0.5.1normalUI\Temp\bin\Debug\UnityEngine.WindModule.dll
+D:\STUDY\Unity практика\Testing 0.5.1normalUI\Temp\bin\Debug\UnityEngine.XRModule.dll
+D:\STUDY\Unity практика\Testing 0.5.1normalUI\Temp\bin\Debug\UnityScript.dll
+D:\STUDY\Unity практика\Testing 0.5.1normalUI\Temp\bin\Debug\UnityScript.Lang.dll
+D:\STUDY\Unity практика\Testing 0.5.1normalUI\Temp\bin\Debug\Unity.Cecil.dll
+D:\STUDY\Unity практика\Testing 0.5.1normalUI\Temp\bin\Debug\Unity.SerializationLogic.dll
+D:\STUDY\Unity практика\Testing 0.5.1normalUI\Temp\bin\Debug\Unity.DataContract.dll
+D:\STUDY\Unity практика\Testing 0.5.1normalUI\Temp\bin\Debug\ExCSS.Unity.dll
+D:\STUDY\Unity практика\Testing 0.5.1normalUI\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+D:\STUDY\Unity практика\Testing 0.5.1normalUI\Temp\bin\Debug\Unity.UNetWeaver.dll
+D:\STUDY\Unity практика\Testing 0.5.1normalUI\Temp\bin\Debug\Unity.IvyParser.dll
+D:\STUDY\Unity практика\Testing 0.5.1normalUI\Temp\bin\Debug\Boo.Lang.Compiler.dll
+D:\STUDY\Unity практика\Testing 0.5.1normalUI\Temp\bin\Debug\Boo.Lang.PatternMatching.dll
+D:\STUDY\Unity практика\Testing 0.5.1normalUI\Temp\bin\Debug\Boo.Lang.Parser.dll
+D:\STUDY\Unity практика\Testing 0.5.1normalUI\Temp\bin\Debug\Boo.Lang.Useful.dll
+D:\STUDY\Unity практика\Testing 0.5.1normalUI\Temp\bin\Debug\Unity.CecilTools.dll
+D:\STUDY\Unity практика\Testing 0.5.1normalUI\Temp\bin\Debug\Unity.Cecil.Pdb.dll
+D:\STUDY\Unity практика\Testing 0.5.1normalUI\Temp\bin\Debug\Unity.Cecil.Mdb.dll
+D:\STUDY\Unity практика\Testing 0.5.1normalUI\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+D:\STUDY\Unity практика\Testing 0.5.1normalUI\Temp\bin\Debug\UnityEngine.xml
+D:\STUDY\Unity практика\Testing 0.5.1normalUI\Temp\bin\Debug\UnityEditor.xml
+D:\STUDY\Unity практика\Testing 0.5.1normalUI\Temp\bin\Debug\UnityEngine.AIModule.xml
+D:\STUDY\Unity практика\Testing 0.5.1normalUI\Temp\bin\Debug\UnityEngine.ARModule.xml
+D:\STUDY\Unity практика\Testing 0.5.1normalUI\Temp\bin\Debug\UnityEngine.AccessibilityModule.xml
+D:\STUDY\Unity практика\Testing 0.5.1normalUI\Temp\bin\Debug\UnityEngine.AnimationModule.xml
+D:\STUDY\Unity практика\Testing 0.5.1normalUI\Temp\bin\Debug\UnityEngine.AssetBundleModule.xml
+D:\STUDY\Unity практика\Testing 0.5.1normalUI\Temp\bin\Debug\UnityEngine.AudioModule.xml
+D:\STUDY\Unity практика\Testing 0.5.1normalUI\Temp\bin\Debug\UnityEngine.BaselibModule.xml
+D:\STUDY\Unity практика\Testing 0.5.1normalUI\Temp\bin\Debug\UnityEngine.ClothModule.xml
+D:\STUDY\Unity практика\Testing 0.5.1normalUI\Temp\bin\Debug\UnityEngine.ClusterInputModule.xml
+D:\STUDY\Unity практика\Testing 0.5.1normalUI\Temp\bin\Debug\UnityEngine.ClusterRendererModule.xml
+D:\STUDY\Unity практика\Testing 0.5.1normalUI\Temp\bin\Debug\UnityEngine.CoreModule.xml
+D:\STUDY\Unity практика\Testing 0.5.1normalUI\Temp\bin\Debug\UnityEngine.CrashReportingModule.xml
+D:\STUDY\Unity практика\Testing 0.5.1normalUI\Temp\bin\Debug\UnityEngine.DirectorModule.xml
+D:\STUDY\Unity практика\Testing 0.5.1normalUI\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.xml
+D:\STUDY\Unity практика\Testing 0.5.1normalUI\Temp\bin\Debug\UnityEngine.GameCenterModule.xml
+D:\STUDY\Unity практика\Testing 0.5.1normalUI\Temp\bin\Debug\UnityEngine.GridModule.xml
+D:\STUDY\Unity практика\Testing 0.5.1normalUI\Temp\bin\Debug\UnityEngine.HotReloadModule.xml
+D:\STUDY\Unity практика\Testing 0.5.1normalUI\Temp\bin\Debug\UnityEngine.IMGUIModule.xml
+D:\STUDY\Unity практика\Testing 0.5.1normalUI\Temp\bin\Debug\UnityEngine.ImageConversionModule.xml
+D:\STUDY\Unity практика\Testing 0.5.1normalUI\Temp\bin\Debug\UnityEngine.InputModule.xml
+D:\STUDY\Unity практика\Testing 0.5.1normalUI\Temp\bin\Debug\UnityEngine.JSONSerializeModule.xml
+D:\STUDY\Unity практика\Testing 0.5.1normalUI\Temp\bin\Debug\UnityEngine.LocalizationModule.xml
+D:\STUDY\Unity практика\Testing 0.5.1normalUI\Temp\bin\Debug\UnityEngine.ParticleSystemModule.xml
+D:\STUDY\Unity практика\Testing 0.5.1normalUI\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.xml
+D:\STUDY\Unity практика\Testing 0.5.1normalUI\Temp\bin\Debug\UnityEngine.PhysicsModule.xml
+D:\STUDY\Unity практика\Testing 0.5.1normalUI\Temp\bin\Debug\UnityEngine.Physics2DModule.xml
+D:\STUDY\Unity практика\Testing 0.5.1normalUI\Temp\bin\Debug\UnityEngine.ProfilerModule.xml
+D:\STUDY\Unity практика\Testing 0.5.1normalUI\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.xml
+D:\STUDY\Unity практика\Testing 0.5.1normalUI\Temp\bin\Debug\UnityEngine.SharedInternalsModule.xml
+D:\STUDY\Unity практика\Testing 0.5.1normalUI\Temp\bin\Debug\UnityEngine.SpriteMaskModule.xml
+D:\STUDY\Unity практика\Testing 0.5.1normalUI\Temp\bin\Debug\UnityEngine.SpriteShapeModule.xml
+D:\STUDY\Unity практика\Testing 0.5.1normalUI\Temp\bin\Debug\UnityEngine.StreamingModule.xml
+D:\STUDY\Unity практика\Testing 0.5.1normalUI\Temp\bin\Debug\UnityEngine.StyleSheetsModule.xml
+D:\STUDY\Unity практика\Testing 0.5.1normalUI\Temp\bin\Debug\UnityEngine.SubstanceModule.xml
+D:\STUDY\Unity практика\Testing 0.5.1normalUI\Temp\bin\Debug\UnityEngine.TLSModule.xml
+D:\STUDY\Unity практика\Testing 0.5.1normalUI\Temp\bin\Debug\UnityEngine.TerrainModule.xml
+D:\STUDY\Unity практика\Testing 0.5.1normalUI\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.xml
+D:\STUDY\Unity практика\Testing 0.5.1normalUI\Temp\bin\Debug\UnityEngine.TextCoreModule.xml
+D:\STUDY\Unity практика\Testing 0.5.1normalUI\Temp\bin\Debug\UnityEngine.TextRenderingModule.xml
+D:\STUDY\Unity практика\Testing 0.5.1normalUI\Temp\bin\Debug\UnityEngine.TilemapModule.xml
+D:\STUDY\Unity практика\Testing 0.5.1normalUI\Temp\bin\Debug\UnityEngine.TimelineModule.xml
+D:\STUDY\Unity практика\Testing 0.5.1normalUI\Temp\bin\Debug\UnityEngine.UIModule.xml
+D:\STUDY\Unity практика\Testing 0.5.1normalUI\Temp\bin\Debug\UnityEngine.UIElementsModule.xml
+D:\STUDY\Unity практика\Testing 0.5.1normalUI\Temp\bin\Debug\UnityEngine.UNETModule.xml
+D:\STUDY\Unity практика\Testing 0.5.1normalUI\Temp\bin\Debug\UnityEngine.UmbraModule.xml
+D:\STUDY\Unity практика\Testing 0.5.1normalUI\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.xml
+D:\STUDY\Unity практика\Testing 0.5.1normalUI\Temp\bin\Debug\UnityEngine.UnityConnectModule.xml
+D:\STUDY\Unity практика\Testing 0.5.1normalUI\Temp\bin\Debug\UnityEngine.UnityTestProtocolModule.xml
+D:\STUDY\Unity практика\Testing 0.5.1normalUI\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.xml
+D:\STUDY\Unity практика\Testing 0.5.1normalUI\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.xml
+D:\STUDY\Unity практика\Testing 0.5.1normalUI\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.xml
+D:\STUDY\Unity практика\Testing 0.5.1normalUI\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.xml
+D:\STUDY\Unity практика\Testing 0.5.1normalUI\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.xml
+D:\STUDY\Unity практика\Testing 0.5.1normalUI\Temp\bin\Debug\UnityEngine.VFXModule.xml
+D:\STUDY\Unity практика\Testing 0.5.1normalUI\Temp\bin\Debug\UnityEngine.VRModule.xml
+D:\STUDY\Unity практика\Testing 0.5.1normalUI\Temp\bin\Debug\UnityEngine.VehiclesModule.xml
+D:\STUDY\Unity практика\Testing 0.5.1normalUI\Temp\bin\Debug\UnityEngine.VideoModule.xml
+D:\STUDY\Unity практика\Testing 0.5.1normalUI\Temp\bin\Debug\UnityEngine.WindModule.xml
+D:\STUDY\Unity практика\Testing 0.5.1normalUI\Temp\bin\Debug\UnityEngine.XRModule.xml
+D:\STUDY\Unity практика\Testing 0.5.1normalUI\Temp\bin\Debug\UnityEngine.UI.xml
+D:\STUDY\Unity практика\Testing 0.5.1normalUI\Temp\bin\Debug\UnityEngine.TestRunner.xml
+D:\STUDY\Unity практика\Testing 0.5.1normalUI\Temp\bin\Debug\nunit.framework.xml
+D:\STUDY\Unity практика\Testing 0.5.1normalUI\Temp\bin\Debug\UnityEngine.Timeline.xml
+D:\STUDY\Unity практика\Testing 0.5.1normalUI\Temp\bin\Debug\UnityEngine.Networking.xml
+D:\STUDY\Unity практика\Testing 0.5.1normalUI\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.xml
+D:\STUDY\Unity практика\Testing 0.5.1normalUI\Temp\bin\Debug\UnityEngine.SpatialTracking.xml
+D:\STUDY\Unity практика\Testing 0.5.1normalUI\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+D:\STUDY\Unity практика\Testing 0.5.1normalUI\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+D:\STUDY\Unity практика\Testing 0.5.1normalUI\obj\Debug\Assembly-CSharp.csproj.CopyComplete
+D:\STUDY\Unity практика\Testing 0.5.1normalUI\obj\Debug\Assembly-CSharp.dll
+D:\STUDY\Unity практика\Testing 0.5.1normalUI\obj\Debug\Assembly-CSharp.pdb

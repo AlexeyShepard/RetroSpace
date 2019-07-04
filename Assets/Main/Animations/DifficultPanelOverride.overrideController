@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: DifficultPanelOverride
+  m_Controller: {fileID: 9100000, guid: dc19b2bad710c3f40bc6eff0319afa4e, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: ba94517ae24a99945970c1ca892bd78e, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 2312fcb51e5ec9748ae1004433f9fb6d, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: e5a713647146ccc40b74a0b968a5cdc6, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 3326c91739916e446bbcb9e30057984f, type: 2}
